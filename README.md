@@ -1,4 +1,4 @@
-💻 Wishal Mughal
+💻 Farwa Mushtaq
 Flutter Developer | UI/UX Designer | Dart Enthusiast
 
 "Code is not just code; it's art in motion!"
